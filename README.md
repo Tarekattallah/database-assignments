@@ -14,4 +14,4 @@ This project represents my first database assignment using MySQL.
 ## How to Run
 1. Open MySQL Workbench
 2. Run `schema.sql.`
-3. Run `data.sq.l`
+3. Run `data.sq.l.`
